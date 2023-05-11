@@ -19,7 +19,7 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 
 | *Curso normal de eventos* |
 |----------|
-| 1.  |
+| 1.  El usuario debera ingresar un Numero|
 | 2. |
 |3.  |
 
