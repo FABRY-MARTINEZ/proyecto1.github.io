@@ -11,7 +11,7 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 
 ### Descripción caso de uso:
 
-| *Caso de uso* | Scrip con Bucle Do While|
+| **Caso de uso** | Scrip con Bucle Do While|
 |----------|----------|
 | *Actores:*    |  Estudiantes 4to Semrestre  |
 | *Propósito:*   | Practicar con el Bucle Do While|
