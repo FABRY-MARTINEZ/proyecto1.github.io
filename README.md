@@ -19,8 +19,12 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 
 | *Curso normal de eventos* |
 |----------|
-| 1.  El usuario debera ingresar un Numero|
-| 2. |
-|3.  |
+| 1. El usuario debera ingresar un Numero|
+| 2. El programa debera determinar si el numero ingresado es Primo|
+| 3. Se debera realizar la clasificacion del Numero asi:
+for(int ind = 2; ind < num; ind++){
+                if(num%ind == 0){
+                    primo = false;
+                }                                                 |
 
 
