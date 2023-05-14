@@ -95,33 +95,7 @@ public class Primo {
 **Seudo codigo** 
 
 Inicio
-
-Definir entrada como Scanner
-Imprimir "Ingrese un número entero positivo: "
-num = entrada.nextInt()
-
-Si (esPrimo(num)) Entonces
-Imprimir num + " es un número primo."
-Sino
-Imprimir num + " no es un número primo."
-Fin Si
-
-Fin
-
-Función esPrimo(num)
-Si (num <= 1) Entonces
-Retornar falso
-Fin Si
-
-Para i = 2 hasta raíz cuadrada de num hacer
-Si (num % i == 0) Entonces
-Retornar falso
-Fin Si
-Fin Para
-
-Retornar verdadero
-Fin Función
-
+  |
 
 
 
