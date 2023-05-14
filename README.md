@@ -96,7 +96,7 @@ public class Primo {
 
   | **Inicio** | 
 | **num: Entero**|
-|  **r:Caracter  |
+|  **r:Caracter**  |
 
 
 
