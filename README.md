@@ -94,8 +94,9 @@ public class Primo {
 
 **Seudo codigo** 
 
-Inicio
-  |
+  | **Inicio** | 
+
+| **num: Entero** | 
 
 
 
