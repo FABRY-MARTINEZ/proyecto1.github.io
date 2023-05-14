@@ -56,7 +56,7 @@ import java.util.Scanner;
     }
 }
 
-codigo orientado a objetos 
+CODIGO ORIENTADO A OBJETOS 
 
 import java.util.Scanner;
 public class Primo {
@@ -92,9 +92,9 @@ public class Primo {
 }
 
 
-**Diagrama de Flujo ** 
+DIAGRAMA DE FLUJO
 
-  | **Inicio** | 
+  | **Inicio** | ---
 | **num: Entero**|
 |  **r:Caracter**  |
 
