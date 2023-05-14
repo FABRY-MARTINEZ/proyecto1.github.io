@@ -95,8 +95,10 @@ public class Primo {
 **Seudo codigo** 
 
   | **Inicio** | 
+| **num: Entero**
+  **r:Caracter| 
 
-| **num: Entero** | 
+
 
 
 
