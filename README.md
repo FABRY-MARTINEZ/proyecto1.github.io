@@ -29,24 +29,29 @@ CODIGO
 
 import java.util.Scanner;
 public class Primo {
-    public static void main(String[] args) {      
+    public static void main(String[] args) {    
         Scanner entrada = new Scanner(System.in);
         System.out.print("Ingrese un número entero positivo: ");
         int num = entrada.nextInt();
+        
         if (esPrimo(num)) {
-        System.out.println(num + " es un número primo.");
-        }else {System.out.println(num + " no es un número primo.");}
-    }   public static boolean esPrimo(int num) {
+            System.out.println(num + " es un número primo.");
+        } else {
+            System.out.println(num + " no es un número primo.");
+        }
+    }
+        public static boolean esPrimo(int num) {
         if (num <= 1) {
-        return false;
-    }   for (int i = 2; i <= Math.sqrt(num); i++) {
-        if (num % i == 0) {
-        return false;
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
     }
-    }
-       return true;
-    }
-    }
+}
 
 codigo orientado a objetos 
 
