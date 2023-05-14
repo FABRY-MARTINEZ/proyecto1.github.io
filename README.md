@@ -28,7 +28,9 @@ for(int ind = 2; ind < num; ind++){ if(num%ind == 0){primo = false;}|
 CODIGO 
 
 import java.util.Scanner;
+
 public class Primo {
+
     public static void main(String[] args) {    
         Scanner entrada = new Scanner(System.in);
         System.out.print("Ingrese un número entero positivo: ");
