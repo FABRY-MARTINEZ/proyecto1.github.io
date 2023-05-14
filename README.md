@@ -29,9 +29,7 @@ CODIGO
 import java.util.Scanner;
 
 public class Primo {
-
-    public static void main(String[] args) {
-        
+    public static void main(String[] args) {      
         Scanner entrada = new Scanner(System.in);
         System.out.print("Ingrese un número entero positivo: ");
         int num = entrada.nextInt();
@@ -56,7 +54,43 @@ public class Primo {
     }
 }
 
-seudo codigo 
+codigo orientado a objetos 
+
+import java.util.Scanner;
+public class Primo {
+
+    public static void main(String[] args) {
+        Primo p = new Primo();
+        p.ejecutar();
+    }
+    
+    public void ejecutar() {
+        Scanner entrada = new Scanner(System.in);
+        System.out.print("Ingrese un número entero positivo: ");
+        int num = entrada.nextInt();
+        
+        if (esPrimo(num)) {
+            System.out.println(num + " es un número primo.");
+        } else {
+            System.out.println(num + " no es un número primo.");
+        }
+    }
+    
+    public boolean esPrimo(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
+
+
+**Seudo codigo** 
 
 Inicio
 
