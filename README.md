@@ -98,7 +98,8 @@ public class Primo {
 | **num: Entero**|
 |  **r:Caracter**  |
 
-
+| *Actores:*    |  Estudiantes 4to Semrestre  |
+| *Propósito:*   | Practicar con el Bucle Do While|
 
 
 
