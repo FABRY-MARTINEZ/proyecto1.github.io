@@ -92,11 +92,11 @@ public class Primo {
 }
 
 
-**Seudo codigo** 
+**Diagrama de Flujo ** 
 
   | **Inicio** | 
-| **num: Entero**
-  **r:Caracter| 
+| **num: Entero**|
+|  **r:Caracter  |
 
 
 
