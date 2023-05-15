@@ -111,7 +111,20 @@ public class Primo {
                             *
                           |FIN|
 
+### PSEUDOCODIGO: 
 
+//Variable
+num:entero
+r:cadena
+//entrada 
+leer num
+si num <=1 entonces  
+num es primo 
+si num=2 entonces 
+num No es primo entonces 
+leer 
+// salida 
+fin 
 
 
 
