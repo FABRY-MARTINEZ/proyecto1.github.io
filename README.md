@@ -25,7 +25,7 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 for(int ind = 2; ind < num; ind++){ if(num%ind == 0){primo = false;}|
 
 
-###CODIGO 
+### CODIGO: 
 
 import java.util.Scanner;
 
@@ -56,7 +56,7 @@ import java.util.Scanner;
     }
 }
 
-###CODIGO ORIENTADO A OBJETOS 
+### CODIGO ORIENTADO A OBJETOS:  
 
 import java.util.Scanner;
 public class Primo {
@@ -92,7 +92,7 @@ public class Primo {
 }
 
 
-### DIAGRAMA DE FLUJO:
+### DIAGRAMA DE FLUJO: 
 
                            | Inicio | 
                          | num: Entero|
