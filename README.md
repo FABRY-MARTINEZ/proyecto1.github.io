@@ -106,7 +106,9 @@ public class Primo {
             *                                  *
 |num: No es priomo|                   |num: Si es priomo|
                             *
+                            *
                         |Escribir|
+                            *
                           |FIN|
 
 
