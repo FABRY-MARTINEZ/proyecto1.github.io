@@ -94,13 +94,23 @@ public class Primo {
 
 ### DIAGRAMA DE FLUJO:
 
-  | Inicio | ---
-| num: Entero|
-| r:Caracter|---
-|Leer n|
+                           | Inicio | 
+                         | num: Entero|
+                         | r:Caracter|
+                           |Leer n|
+                               *
+                               *
+                               *
+            ---|F |num mod <=1 o num mod =2|v|---
+            *                                  *
+            *                                  *
+            *                                  *
+|num: No es priomo|                   |num: Si es priomo|
 
-|F |num mod <=1 o num mod =2|v|
-
+                            *
+                            *
+                        |Escribir|
+                          |FIN|
 
 
 
