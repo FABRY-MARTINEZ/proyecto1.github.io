@@ -100,13 +100,11 @@ public class Primo {
                            |Leer n|
                                *
                                *
-                               *
             ---|F |num mod <=1 o num mod =2|v|---
             *                                  *
             *                                  *
             *                                  *
 |num: No es priomo|                   |num: Si es priomo|
-
                             *
                             *
                         |Escribir|
