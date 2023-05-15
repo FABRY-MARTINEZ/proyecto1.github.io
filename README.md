@@ -96,7 +96,10 @@ public class Primo {
 
   | Inicio | ---
 | num: Entero|
-| r:Caracter|
+| r:Caracter|---
+|Leer n|
+
+|F |num mod <=1 o num mod =2|v|
 
 
 
