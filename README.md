@@ -92,7 +92,7 @@ public class Primo {
 }
 
 
-DIAGRAMA DE FLUJO
+### DIAGRAMA DE FLUJO:
 
   | Inicio | ---
 | num: Entero|
