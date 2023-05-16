@@ -13,15 +13,11 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 
 
 
-
-![image](https://github.com/FABRY-MARTINEZ/proyecto1.github.io/assets/133180029/c545feb1-2c76-43b0-8b77-047e33433056)
-
-
-                                                                | **Caso de uso** | Scrip con Bucle Do While|
-                                                                       |----------|----------|
-        ![Uploading Captura.PNG…]()
-                                                        | *Actores:*    |  Estudiantes 4to Semrestre  |
-                                                                | *Propósito:*   | Practicar con el Bucle Do While|
+| **Caso de uso** | Scrip con Bucle Do While|
+|----------|----------|
+   
+| *Actores:*    |  Estudiantes 4to Semrestre  |
+| *Propósito:*   | Practicar con el Bucle Do While|
 
 
 | *Curso normal de eventos* |
