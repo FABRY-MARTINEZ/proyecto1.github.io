@@ -122,10 +122,13 @@ r:cadena
 
 leer num
 si num <=1 entonces  
+
 num es primo 
-si num=2 entonces 
+si num=2 entonces
+
 num No es primo entonces 
 leer 
+
 // salida 
 fin 
 
