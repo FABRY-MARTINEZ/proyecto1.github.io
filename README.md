@@ -133,4 +133,5 @@ leer
 fin 
 
 
+![jira](https://github.com/FABRY-MARTINEZ/proyecto1.github.io/assets/133180029/da317122-c43a-4dfe-975b-76a743a900b8)
 
