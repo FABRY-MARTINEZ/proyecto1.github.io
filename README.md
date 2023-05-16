@@ -9,8 +9,11 @@ Java es en la actualidad uno de los lenguajes más demandados en el mercado por 
 - Como mínimo debe contener un ciclo FOR. }
 - Como prioridad debes divertirte en el proceso 
 
+
 ### Descripción caso de uso:
 
+
+![Captura](https://github.com/FABRY-MARTINEZ/proyecto1.github.io/assets/133180029/a4db7832-04e5-494f-868c-a83738bd9cd4)
 
 
 | **Caso de uso** | Scrip con Bucle Do While|
