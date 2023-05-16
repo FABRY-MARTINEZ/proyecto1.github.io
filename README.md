@@ -93,8 +93,9 @@ public class Primo {
 
 
 ### DIAGRAMA DE FLUJO: 
-
+                            |----------|
                            | Inicio | 
+                           |----------|
                          | num: Entero|
                          | r:Caracter|
                            |Leer n|
@@ -116,7 +117,9 @@ public class Primo {
 //Variable
 num:entero
 r:cadena
+
 //entrada 
+
 leer num
 si num <=1 entonces  
 num es primo 
