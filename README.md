@@ -100,23 +100,8 @@ public class Primo {
 
 ### DIAGRAMA DE FLUJO: 
                            
-                           | Inicio | 
-                          
-                         | num: Entero|
-                         | r:Caracter|
-                           |Leer n|
-                               *
-                               *
-            ---|F |num mod <=1 o num mod =2|v|---
-            *                                  *
-            *                                  *
-            *                                  *
-|num: No es priomo|                   |num: Si es priomo|
-                            *
-                            *
-                        |Escribir|
-                            *
-                          |FIN|
+![flujo](https://github.com/FABRY-MARTINEZ/proyecto1.github.io/assets/133180029/79fb770d-329b-4f39-b479-a57da5ec14b1)
+     
 
 ### PSEUDOCODIGO: 
 
