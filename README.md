@@ -93,9 +93,9 @@ public class Primo {
 
 
 ### DIAGRAMA DE FLUJO: 
-                            |----------|
+                           
                            | Inicio | 
-                           |----------|
+                          
                          | num: Entero|
                          | r:Caracter|
                            |Leer n|
@@ -128,7 +128,6 @@ num No es primo entonces
 leer 
 // salida 
 fin 
-
 
 
 
